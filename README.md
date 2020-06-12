@@ -1,4 +1,4 @@
-# JavaScript: Programando na linguagem da Web
+# JavaScript: Programando na Linguagem da Web
 
 <h2>Descrição</h2>
 <p>Exercícios desenvolvidos na mentoria <i>Cloud Girls</i> em parceria com a <i>Oracle ONE (Oracle Next Education)</i></p>
