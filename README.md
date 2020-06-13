@@ -1,4 +1,4 @@
-<h1 align="center"> JavaScript: Programando na Linguagem da Web</h1>
+<h1 align="center"> JavaScript: Programando na Linguagem da Web</h1><br>
 
 <h2>Descrição</h2>
 <p>Exercícios desenvolvidos na mentoria <i>Cloud Girls</i> em parceria com a <i>Oracle ONE (Oracle Next Education)</i></p>
