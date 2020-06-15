@@ -24,18 +24,7 @@ botaoAdicionar.addEventListener("click", function () {
             erroAjax.classList.remove("invisivel")
         }
 
-
-
     });
 
     xhr.send();
-
-
-
-
-
 });
-
-
-
-
